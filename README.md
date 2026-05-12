@@ -22,6 +22,10 @@
   <img src="https://img.shields.io/badge/GitHub-00ff99?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
+<a href="https://alejodev17.github.io/Mi_portafolio_web/">
+  <img src="https://img.shields.io/badge/Portfolio-00ff99?style=for-the-badge&logo=firefox&logoColor=black"/>
+</a>
+
 </div>
 
 ---
