@@ -169,6 +169,6 @@ Además, apoyé procesos de pruebas en ambientes productivos, validando flujos c
 <br>
 
 ## 🚀 Enfoque Profesional
-Actualmente enfocado en el desarrollo backend, automatización empresarial, integración de APIs y construcción de soluciones eficientes orientadas a mejorar procesos reales mediante tecnología.
+Actualmente enfocado en el desarrollo backend, automatización empresarial, integración de APIs y construcción de soluciones eficientes orientadas a mejorar procesos reales.
 
 
