@@ -65,6 +65,9 @@ Seguir creciendo como desarrollador backend y automation engineer, construyendo 
 
 📍 Desarrollo de soluciones backend y automatización de procesos empresariales.
 
+Actualmente me desempeño como Analista de Sistemas y Desarrollador de Software, participando en el diseño, desarrollo y mantenimiento de aplicaciones empresariales orientadas a la optimización de procesos internos y operativos de la organización. Cuento con experiencia en el desarrollo de soluciones tecnológicas utilizando Python, JavaScript,PHP, HTML y CSS, así como en la automatización de procesos mediante herramientas RPA e integraciones con APIs y servicios web.
+
+He trabajado en la construcción de aplicaciones, automatizaciones, formularios, workflows y funcionalidades personalizadas, enfocadas en mejorar la eficiencia operativa, optimizar tiempos de ejecución y garantizar la trazabilidad de la información. Además, poseo experiencia en el consumo e integración de APIs, manejo y validación de datos, generación dinámica de documentos y desarrollo de soluciones orientadas a la transformación digital de procesos empresariales.
 <br>
 
 ### ⚙️ Responsabilidades
@@ -83,6 +86,13 @@ Seguir creciendo como desarrollador backend y automation engineer, construyendo 
 
 📍 Participación en procesos de validación y aseguramiento de calidad de software.
 
+Desempeñé el rol de Analista de Calidad de Software (QA) participando en el aseguramiento de la calidad de aplicaciones empresariales en entornos productivos. Realicé pruebas funcionales y de validación, tanto de manera individual como en colaboración con equipos multidisciplinarios, garantizando el correcto funcionamiento de los sistemas antes y después de su liberación a producción.
+
+Tuve a cargo la gestión y validación de datos en bases de datos MYSQL, mediante la ejecución de consultas SQL para verificación de información, integridad de datos y apoyo a los procesos de prueba. Elaboré, ejecuté y documenté casos de prueba, gestionando incidencias y requerimientos a través de JIRA.
+
+Participé en procesos de automatización de pruebas utilizando Selenium, así como en la validación de servicios y APIs REST mediante Postman. Realicé revisión y análisis de documentación funcional y técnica, asegurando la correcta interpretación de los requerimientos.
+
+Además, apoyé procesos de pruebas en ambientes productivos, validando flujos críticos del negocio y contribuyendo a la mejora continua de los procesos de calidad, comunicación y entrega de software.
 <br>
 
 ### ⚙️ Responsabilidades
